@@ -1,0 +1,8 @@
+E:\DA Exercises\ex-1\fantasy string\fantasy string\fantasy string\bin\Debug\fantasy string.exe.config
+E:\DA Exercises\ex-1\fantasy string\fantasy string\fantasy string\bin\Debug\fantasy string.exe
+E:\DA Exercises\ex-1\fantasy string\fantasy string\fantasy string\bin\Debug\fantasy string.pdb
+E:\DA Exercises\ex-1\fantasy string\fantasy string\fantasy string\obj\Debug\fantasy string.csproj.AssemblyReference.cache
+E:\DA Exercises\ex-1\fantasy string\fantasy string\fantasy string\obj\Debug\fantasy string.csproj.SuggestedBindingRedirects.cache
+E:\DA Exercises\ex-1\fantasy string\fantasy string\fantasy string\obj\Debug\fantasy string.csproj.CoreCompileInputs.cache
+E:\DA Exercises\ex-1\fantasy string\fantasy string\fantasy string\obj\Debug\fantasy string.exe
+E:\DA Exercises\ex-1\fantasy string\fantasy string\fantasy string\obj\Debug\fantasy string.pdb

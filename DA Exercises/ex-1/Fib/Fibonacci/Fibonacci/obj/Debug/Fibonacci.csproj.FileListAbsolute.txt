@@ -1,0 +1,8 @@
+E:\DA Exercises\ex-1\Fib\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+E:\DA Exercises\ex-1\Fib\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+E:\DA Exercises\ex-1\Fib\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+E:\DA Exercises\ex-1\Fib\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.AssemblyReference.cache
+E:\DA Exercises\ex-1\Fib\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.SuggestedBindingRedirects.cache
+E:\DA Exercises\ex-1\Fib\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+E:\DA Exercises\ex-1\Fib\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+E:\DA Exercises\ex-1\Fib\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb

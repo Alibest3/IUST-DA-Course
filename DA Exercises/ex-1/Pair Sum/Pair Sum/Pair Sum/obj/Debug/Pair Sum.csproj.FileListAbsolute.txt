@@ -1,0 +1,8 @@
+E:\DA Exercises\ex-1\Pair Sum\Pair Sum\Pair Sum\bin\Debug\Pair Sum.exe.config
+E:\DA Exercises\ex-1\Pair Sum\Pair Sum\Pair Sum\bin\Debug\Pair Sum.exe
+E:\DA Exercises\ex-1\Pair Sum\Pair Sum\Pair Sum\bin\Debug\Pair Sum.pdb
+E:\DA Exercises\ex-1\Pair Sum\Pair Sum\Pair Sum\obj\Debug\Pair Sum.csproj.AssemblyReference.cache
+E:\DA Exercises\ex-1\Pair Sum\Pair Sum\Pair Sum\obj\Debug\Pair Sum.csproj.SuggestedBindingRedirects.cache
+E:\DA Exercises\ex-1\Pair Sum\Pair Sum\Pair Sum\obj\Debug\Pair Sum.csproj.CoreCompileInputs.cache
+E:\DA Exercises\ex-1\Pair Sum\Pair Sum\Pair Sum\obj\Debug\Pair Sum.exe
+E:\DA Exercises\ex-1\Pair Sum\Pair Sum\Pair Sum\obj\Debug\Pair Sum.pdb

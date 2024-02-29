@@ -1,0 +1,8 @@
+E:\DA Exercises\ex-1\String Mixer\String Mixer\String Mixer\bin\Debug\String Mixer.exe.config
+E:\DA Exercises\ex-1\String Mixer\String Mixer\String Mixer\bin\Debug\String Mixer.exe
+E:\DA Exercises\ex-1\String Mixer\String Mixer\String Mixer\bin\Debug\String Mixer.pdb
+E:\DA Exercises\ex-1\String Mixer\String Mixer\String Mixer\obj\Debug\String Mixer.csproj.AssemblyReference.cache
+E:\DA Exercises\ex-1\String Mixer\String Mixer\String Mixer\obj\Debug\String Mixer.csproj.SuggestedBindingRedirects.cache
+E:\DA Exercises\ex-1\String Mixer\String Mixer\String Mixer\obj\Debug\String Mixer.csproj.CoreCompileInputs.cache
+E:\DA Exercises\ex-1\String Mixer\String Mixer\String Mixer\obj\Debug\String Mixer.exe
+E:\DA Exercises\ex-1\String Mixer\String Mixer\String Mixer\obj\Debug\String Mixer.pdb

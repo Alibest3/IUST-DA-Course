@@ -1,0 +1,8 @@
+E:\DA Exercises\ex-1\LCS\LCS\LCS\bin\Debug\LCS.exe.config
+E:\DA Exercises\ex-1\LCS\LCS\LCS\bin\Debug\LCS.exe
+E:\DA Exercises\ex-1\LCS\LCS\LCS\bin\Debug\LCS.pdb
+E:\DA Exercises\ex-1\LCS\LCS\LCS\obj\Debug\LCS.csproj.AssemblyReference.cache
+E:\DA Exercises\ex-1\LCS\LCS\LCS\obj\Debug\LCS.csproj.SuggestedBindingRedirects.cache
+E:\DA Exercises\ex-1\LCS\LCS\LCS\obj\Debug\LCS.csproj.CoreCompileInputs.cache
+E:\DA Exercises\ex-1\LCS\LCS\LCS\obj\Debug\LCS.exe
+E:\DA Exercises\ex-1\LCS\LCS\LCS\obj\Debug\LCS.pdb
