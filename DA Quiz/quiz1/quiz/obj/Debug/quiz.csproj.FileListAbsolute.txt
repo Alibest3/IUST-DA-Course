@@ -1,0 +1,8 @@
+E:\DA Quiz\quiz\quiz\bin\Debug\quiz.exe.config
+E:\DA Quiz\quiz\quiz\bin\Debug\quiz.exe
+E:\DA Quiz\quiz\quiz\bin\Debug\quiz.pdb
+E:\DA Quiz\quiz\quiz\obj\Debug\quiz.csproj.AssemblyReference.cache
+E:\DA Quiz\quiz\quiz\obj\Debug\quiz.csproj.SuggestedBindingRedirects.cache
+E:\DA Quiz\quiz\quiz\obj\Debug\quiz.csproj.CoreCompileInputs.cache
+E:\DA Quiz\quiz\quiz\obj\Debug\quiz.exe
+E:\DA Quiz\quiz\quiz\obj\Debug\quiz.pdb
