@@ -1,0 +1,8 @@
+E:\DA Exercises\ex-4\Q3_2\Q3_2\Q3_2\bin\Debug\Q3_2.exe.config
+E:\DA Exercises\ex-4\Q3_2\Q3_2\Q3_2\bin\Debug\Q3_2.exe
+E:\DA Exercises\ex-4\Q3_2\Q3_2\Q3_2\bin\Debug\Q3_2.pdb
+E:\DA Exercises\ex-4\Q3_2\Q3_2\Q3_2\obj\Debug\Q3_2.csproj.AssemblyReference.cache
+E:\DA Exercises\ex-4\Q3_2\Q3_2\Q3_2\obj\Debug\Q3_2.csproj.SuggestedBindingRedirects.cache
+E:\DA Exercises\ex-4\Q3_2\Q3_2\Q3_2\obj\Debug\Q3_2.csproj.CoreCompileInputs.cache
+E:\DA Exercises\ex-4\Q3_2\Q3_2\Q3_2\obj\Debug\Q3_2.exe
+E:\DA Exercises\ex-4\Q3_2\Q3_2\Q3_2\obj\Debug\Q3_2.pdb

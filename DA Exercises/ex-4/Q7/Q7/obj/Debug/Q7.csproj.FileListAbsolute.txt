@@ -1,0 +1,8 @@
+E:\DA Exercises\ex-4\Q7\Q7\bin\Debug\Q7.exe.config
+E:\DA Exercises\ex-4\Q7\Q7\bin\Debug\Q7.exe
+E:\DA Exercises\ex-4\Q7\Q7\bin\Debug\Q7.pdb
+E:\DA Exercises\ex-4\Q7\Q7\obj\Debug\Q7.csproj.AssemblyReference.cache
+E:\DA Exercises\ex-4\Q7\Q7\obj\Debug\Q7.csproj.SuggestedBindingRedirects.cache
+E:\DA Exercises\ex-4\Q7\Q7\obj\Debug\Q7.csproj.CoreCompileInputs.cache
+E:\DA Exercises\ex-4\Q7\Q7\obj\Debug\Q7.exe
+E:\DA Exercises\ex-4\Q7\Q7\obj\Debug\Q7.pdb

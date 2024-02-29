@@ -1,0 +1,8 @@
+E:\DA Exercises\ex-4\Q2_22\Q2_22\bin\Debug\Q2_22.exe.config
+E:\DA Exercises\ex-4\Q2_22\Q2_22\bin\Debug\Q2_22.exe
+E:\DA Exercises\ex-4\Q2_22\Q2_22\bin\Debug\Q2_22.pdb
+E:\DA Exercises\ex-4\Q2_22\Q2_22\obj\Debug\Q2_22.csproj.AssemblyReference.cache
+E:\DA Exercises\ex-4\Q2_22\Q2_22\obj\Debug\Q2_22.csproj.SuggestedBindingRedirects.cache
+E:\DA Exercises\ex-4\Q2_22\Q2_22\obj\Debug\Q2_22.csproj.CoreCompileInputs.cache
+E:\DA Exercises\ex-4\Q2_22\Q2_22\obj\Debug\Q2_22.exe
+E:\DA Exercises\ex-4\Q2_22\Q2_22\obj\Debug\Q2_22.pdb
