@@ -1,0 +1,8 @@
+E:\DA Quiz\quiz3\q2\q1_2\q1_2\bin\Debug\q1_2.exe.config
+E:\DA Quiz\quiz3\q2\q1_2\q1_2\bin\Debug\q1_2.exe
+E:\DA Quiz\quiz3\q2\q1_2\q1_2\bin\Debug\q1_2.pdb
+E:\DA Quiz\quiz3\q2\q1_2\q1_2\obj\Debug\q1_2.csproj.AssemblyReference.cache
+E:\DA Quiz\quiz3\q2\q1_2\q1_2\obj\Debug\q1_2.csproj.SuggestedBindingRedirects.cache
+E:\DA Quiz\quiz3\q2\q1_2\q1_2\obj\Debug\q1_2.csproj.CoreCompileInputs.cache
+E:\DA Quiz\quiz3\q2\q1_2\q1_2\obj\Debug\q1_2.exe
+E:\DA Quiz\quiz3\q2\q1_2\q1_2\obj\Debug\q1_2.pdb
