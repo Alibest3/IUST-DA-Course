@@ -1,0 +1,8 @@
+E:\DA Exercises\ex-2\LIS\LIS\LIS\bin\Debug\LIS.exe.config
+E:\DA Exercises\ex-2\LIS\LIS\LIS\bin\Debug\LIS.exe
+E:\DA Exercises\ex-2\LIS\LIS\LIS\bin\Debug\LIS.pdb
+E:\DA Exercises\ex-2\LIS\LIS\LIS\obj\Debug\LIS.csproj.AssemblyReference.cache
+E:\DA Exercises\ex-2\LIS\LIS\LIS\obj\Debug\LIS.csproj.SuggestedBindingRedirects.cache
+E:\DA Exercises\ex-2\LIS\LIS\LIS\obj\Debug\LIS.csproj.CoreCompileInputs.cache
+E:\DA Exercises\ex-2\LIS\LIS\LIS\obj\Debug\LIS.exe
+E:\DA Exercises\ex-2\LIS\LIS\LIS\obj\Debug\LIS.pdb

@@ -1,0 +1,16 @@
+E:\DA Exercises\ex-2\Min Coin\Kesh Ziad\Kesh Ziad\bin\Debug\Kesh Ziad.exe.config
+E:\DA Exercises\ex-2\Min Coin\Kesh Ziad\Kesh Ziad\bin\Debug\Kesh Ziad.exe
+E:\DA Exercises\ex-2\Min Coin\Kesh Ziad\Kesh Ziad\bin\Debug\Kesh Ziad.pdb
+E:\DA Exercises\ex-2\Min Coin\Kesh Ziad\Kesh Ziad\obj\Debug\Kesh Ziad.csproj.AssemblyReference.cache
+E:\DA Exercises\ex-2\Min Coin\Kesh Ziad\Kesh Ziad\obj\Debug\Kesh Ziad.csproj.SuggestedBindingRedirects.cache
+E:\DA Exercises\ex-2\Min Coin\Kesh Ziad\Kesh Ziad\obj\Debug\Kesh Ziad.csproj.CoreCompileInputs.cache
+E:\DA Exercises\ex-2\Min Coin\Kesh Ziad\Kesh Ziad\obj\Debug\Kesh Ziad.exe
+E:\DA Exercises\ex-2\Min Coin\Kesh Ziad\Kesh Ziad\obj\Debug\Kesh Ziad.pdb
+E:\DA Exercises\ex-2\Kesh  ziad\Kesh Ziad\Kesh Ziad\bin\Debug\Kesh Ziad.exe.config
+E:\DA Exercises\ex-2\Kesh  ziad\Kesh Ziad\Kesh Ziad\bin\Debug\Kesh Ziad.exe
+E:\DA Exercises\ex-2\Kesh  ziad\Kesh Ziad\Kesh Ziad\bin\Debug\Kesh Ziad.pdb
+E:\DA Exercises\ex-2\Kesh  ziad\Kesh Ziad\Kesh Ziad\obj\Debug\Kesh Ziad.csproj.AssemblyReference.cache
+E:\DA Exercises\ex-2\Kesh  ziad\Kesh Ziad\Kesh Ziad\obj\Debug\Kesh Ziad.csproj.SuggestedBindingRedirects.cache
+E:\DA Exercises\ex-2\Kesh  ziad\Kesh Ziad\Kesh Ziad\obj\Debug\Kesh Ziad.csproj.CoreCompileInputs.cache
+E:\DA Exercises\ex-2\Kesh  ziad\Kesh Ziad\Kesh Ziad\obj\Debug\Kesh Ziad.exe
+E:\DA Exercises\ex-2\Kesh  ziad\Kesh Ziad\Kesh Ziad\obj\Debug\Kesh Ziad.pdb

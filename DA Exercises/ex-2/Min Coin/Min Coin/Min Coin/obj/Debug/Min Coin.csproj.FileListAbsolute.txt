@@ -1,0 +1,8 @@
+E:\DA Exercises\ex-2\Min Coin\Min Coin\Min Coin\bin\Debug\Min Coin.exe.config
+E:\DA Exercises\ex-2\Min Coin\Min Coin\Min Coin\bin\Debug\Min Coin.exe
+E:\DA Exercises\ex-2\Min Coin\Min Coin\Min Coin\bin\Debug\Min Coin.pdb
+E:\DA Exercises\ex-2\Min Coin\Min Coin\Min Coin\obj\Debug\Min Coin.csproj.AssemblyReference.cache
+E:\DA Exercises\ex-2\Min Coin\Min Coin\Min Coin\obj\Debug\Min Coin.csproj.SuggestedBindingRedirects.cache
+E:\DA Exercises\ex-2\Min Coin\Min Coin\Min Coin\obj\Debug\Min Coin.csproj.CoreCompileInputs.cache
+E:\DA Exercises\ex-2\Min Coin\Min Coin\Min Coin\obj\Debug\Min Coin.exe
+E:\DA Exercises\ex-2\Min Coin\Min Coin\Min Coin\obj\Debug\Min Coin.pdb

@@ -1,0 +1,8 @@
+E:\DA Exercises\ex-2\Cinema\Cinema\Cinema\bin\Debug\Cinema.exe.config
+E:\DA Exercises\ex-2\Cinema\Cinema\Cinema\bin\Debug\Cinema.exe
+E:\DA Exercises\ex-2\Cinema\Cinema\Cinema\bin\Debug\Cinema.pdb
+E:\DA Exercises\ex-2\Cinema\Cinema\Cinema\obj\Debug\Cinema.csproj.AssemblyReference.cache
+E:\DA Exercises\ex-2\Cinema\Cinema\Cinema\obj\Debug\Cinema.csproj.SuggestedBindingRedirects.cache
+E:\DA Exercises\ex-2\Cinema\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+E:\DA Exercises\ex-2\Cinema\Cinema\Cinema\obj\Debug\Cinema.exe
+E:\DA Exercises\ex-2\Cinema\Cinema\Cinema\obj\Debug\Cinema.pdb

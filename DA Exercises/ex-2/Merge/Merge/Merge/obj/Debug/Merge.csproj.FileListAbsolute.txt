@@ -1,0 +1,8 @@
+E:\DA Exercises\ex-2\Merge\Merge\Merge\bin\Debug\Merge.exe.config
+E:\DA Exercises\ex-2\Merge\Merge\Merge\bin\Debug\Merge.exe
+E:\DA Exercises\ex-2\Merge\Merge\Merge\bin\Debug\Merge.pdb
+E:\DA Exercises\ex-2\Merge\Merge\Merge\obj\Debug\Merge.csproj.AssemblyReference.cache
+E:\DA Exercises\ex-2\Merge\Merge\Merge\obj\Debug\Merge.csproj.SuggestedBindingRedirects.cache
+E:\DA Exercises\ex-2\Merge\Merge\Merge\obj\Debug\Merge.csproj.CoreCompileInputs.cache
+E:\DA Exercises\ex-2\Merge\Merge\Merge\obj\Debug\Merge.exe
+E:\DA Exercises\ex-2\Merge\Merge\Merge\obj\Debug\Merge.pdb
