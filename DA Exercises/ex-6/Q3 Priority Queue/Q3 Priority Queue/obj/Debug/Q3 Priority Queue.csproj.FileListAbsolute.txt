@@ -1,0 +1,8 @@
+E:\DA Exercises\ex-6\Q3 Priority Queue\Q3 Priority Queue\bin\Debug\Q3 Priority Queue.exe.config
+E:\DA Exercises\ex-6\Q3 Priority Queue\Q3 Priority Queue\bin\Debug\Q3 Priority Queue.exe
+E:\DA Exercises\ex-6\Q3 Priority Queue\Q3 Priority Queue\bin\Debug\Q3 Priority Queue.pdb
+E:\DA Exercises\ex-6\Q3 Priority Queue\Q3 Priority Queue\obj\Debug\Q3 Priority Queue.csproj.AssemblyReference.cache
+E:\DA Exercises\ex-6\Q3 Priority Queue\Q3 Priority Queue\obj\Debug\Q3 Priority Queue.csproj.SuggestedBindingRedirects.cache
+E:\DA Exercises\ex-6\Q3 Priority Queue\Q3 Priority Queue\obj\Debug\Q3 Priority Queue.csproj.CoreCompileInputs.cache
+E:\DA Exercises\ex-6\Q3 Priority Queue\Q3 Priority Queue\obj\Debug\Q3 Priority Queue.exe
+E:\DA Exercises\ex-6\Q3 Priority Queue\Q3 Priority Queue\obj\Debug\Q3 Priority Queue.pdb
